@@ -44,7 +44,7 @@ hr.star-light {
 
 hr.star-light:after {
   color: #fff;
-  background-color: #b3b6b7;
+  background-color: #b85454;
 }
 
 hr.star-dark {
@@ -106,7 +106,7 @@ section h2 {
 }
 
 #mainNav .navbar-brand {
-  color: #b3b6b7;
+  color: #b85454;
 }
 
 #mainNav .navbar-nav {
@@ -212,7 +212,7 @@ header.masthead h2 {
   -webkit-transition: all ease 0.5s;
   transition: all ease 0.5s;
   opacity: 0;
-  background-color: rgba(76, 165, 255, 0.9);
+  background-color: rgba(184, 84, 84, 0.9);
 }
 
 .portfolio .portfolio-item .portfolio-item-caption:hover {
@@ -323,7 +323,7 @@ form .row:first-child .floating-label-form-group {
 .footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #b3b6b7;
+  background-color: #b85454;
   color: #fff;
 }
 
@@ -336,7 +336,7 @@ a {
 }
 
 a:focus, a:hover, a:active {
-  color: #4ca5ff;
+  color: #b85454;
 }
 
 .btn {
@@ -344,7 +344,7 @@ a:focus, a:hover, a:active {
 }
 
 .bg-primary {
-  background-color: #b3b6b7 !important;
+  background-color: #b85454 !important;
 }
 
 .bg-secondary {
@@ -360,8 +360,8 @@ a:focus, a:hover, a:active {
 }
 
 .btn-primary {
-  background-color: #b3b6b7;
-  border-color: #b3b6b7;
+  background-color: #b85454;
+  border-color: ##b85454;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
